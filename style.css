@@ -18,7 +18,7 @@ body {
   justify-content: center;
   position: absolute;
   margin-top: 200px;
-  margin-left: 1300px;
+  margin-left: 1225px;
   border: 1px solid black;
   border-width: 1ch;
   border-color: white;
@@ -49,6 +49,7 @@ body {
   border-color: white;
   box-shadow: black 5px 5px 5px;
   padding: 10px;
+  width: 30%;
 }
 #group-trip-info {
   color: white;
